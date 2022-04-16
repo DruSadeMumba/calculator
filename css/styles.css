@@ -1,0 +1,11 @@
+.buttons  {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.button {
+  cursor: pointer;
+}
+#clear  {
+  width: 15px;
+  height: auto;
+}
